@@ -13,7 +13,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import re
 
 # ------------------ CONFIGURACIÓN ------------------
-TXT_PATH = "documentos/leyTransito.txt"
+TXT_PATH = "leyTransito.txt"
 DB_PATH = "faiss_index_transito"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "deepseek-r1:latest"
