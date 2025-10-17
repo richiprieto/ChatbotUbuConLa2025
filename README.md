@@ -46,7 +46,7 @@ donde el modelo responde con base en tu propia información (archivos locales o 
    uv init
    uv sync
    ```
-5 Ejecutar
+5. Ejecutar
    ```bash
    uv run main.py
    uv run main2.py
