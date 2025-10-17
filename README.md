@@ -50,6 +50,6 @@ donde el modelo responde con base en tu propia información (archivos locales o 
    ```bash
    uv run main.py
    uv run main2.py
-   ``
+   ```
 
 
